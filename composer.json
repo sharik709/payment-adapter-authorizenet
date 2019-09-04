@@ -1,0 +1,14 @@
+{
+    "name": "sharik709/payment-adapter-authorizenet",
+    "description": "It will be used as payment driver for payment adapter package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sharik shaikh",
+            "email": "shaikhsharik709@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
